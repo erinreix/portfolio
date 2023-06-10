@@ -1,0 +1,14 @@
+.contact {
+  background: linear-gradient(90.21deg, #AA367C -5.91%, #4A2FBD 111.58%);
+}
+
+.contact-input {
+  width: 50%;
+  background: rgba(255, 255, 255, 0.1);
+  border-radius: 20px;
+  color: #fff;
+  padding: 18px 18px;
+  font-weight: 500;
+  font-size: 18px;
+  transition: 0.3s ease-in-out;
+}

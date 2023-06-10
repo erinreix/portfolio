@@ -1,0 +1,4 @@
+.item-hover:hover{
+  color: #9370DB; /* Change the color to your desired hover color */
+  transition: color 0.5s ease;
+}
